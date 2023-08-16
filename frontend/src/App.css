@@ -1,0 +1,12 @@
+.sideDirectory {
+    width: 200px;
+    display: flex;
+    color: black;
+}
+
+.App {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background: midnightblue;
+}
