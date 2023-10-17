@@ -1,3 +1,6 @@
+//backend index.js file
+//calls the openAI API
+
 import { Configuration, OpenAIApi } from "openai";
 import express from "express";
 import bodyParser from "body-parser";
